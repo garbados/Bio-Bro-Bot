@@ -5,11 +5,11 @@ in dialects like Bro and Awesome.
 
 ## Install
 
-  git clone [this repo]
-  cd bio-bro-bot
-  virtualenv venv
-  sourve venv/bin/activate
-  . speak.sh
+    git clone [this repo]
+    cd bio-bro-bot
+    virtualenv venv
+    sourve venv/bin/activate
+    . speak.sh
 
 ## Extending
 
