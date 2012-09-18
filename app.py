@@ -7,7 +7,7 @@ with file("config.yml", "r") as f:
 try:
     dialect = config[sys.argv[1]]
 except Exception as e:
-    print e.message # hilariously, BioBroBot will speak this error message. Intended behavior.
+    print e.message
     dialect = config['bro']
 
 ## Reads the first ten characters from a random genetic sequence
