@@ -1,0 +1,6 @@
+PyYAML==3.10
+argparse==1.2.1
+biopython==1.60
+distribute==0.6.24
+numpy==1.6.2
+wsgiref==0.1.2
