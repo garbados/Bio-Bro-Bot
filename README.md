@@ -5,7 +5,7 @@ in dialects like Bro and Awesome.
 
 ## Install
 
-    git clone [this repo]
+    git clone [this repo] bio-bro-bot
     cd bio-bro-bot
     virtualenv venv
     sourve venv/bin/activate
